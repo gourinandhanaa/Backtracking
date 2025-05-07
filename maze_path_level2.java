@@ -10,6 +10,7 @@ NOTE: The rat can only move in four directions, Left to Right, Right to Left, To
 Input Format
 This algorithm will take the maze as a matrix.
 In the matrix, the value 0 indicates the free space and 1 indicates the wall or blocked area.
+
 Sample Input
 5
 0 0 0 0 0
