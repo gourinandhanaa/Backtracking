@@ -6,7 +6,6 @@ There is a given maze of size N x N [Basically a 2D matrix]. The source and the 
 The maze is given using a binary matrix, where it is marked with 0, it is a valid path, otherwise 1 for a blocked cell.
 
 NOTE: The rat can only move in two directions, either to the right or to the down.
-
  
 Input Format
 
